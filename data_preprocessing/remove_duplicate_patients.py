@@ -1,0 +1,1 @@
+with open('','rb') as fhand:
